@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "cf2mail",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "6c14ed56-17b4-41a6-bfcd-afc3bf42dd52",
+			"database_name": "cf2mailDATA"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
